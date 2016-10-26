@@ -1,1 +1,4 @@
-Just run sudo sh dependencies.sh
+Just run:
+```
+sudo sh dependencies.sh
+```
